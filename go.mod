@@ -1,4 +1,4 @@
-module binarylifting
+module github.com/ilyadt/binarylifting
 
 go 1.19
 

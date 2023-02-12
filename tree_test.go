@@ -3,7 +3,7 @@ package binarylifting_test
 import (
 	"testing"
 
-	"binarylifting"
+	"github.com/ilyadt/binarylifting"
 
 	"github.com/stretchr/testify/assert"
 )
