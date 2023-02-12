@@ -5,7 +5,6 @@ import "math"
 
 type Node interface {
 	int | int8 | int16 | int32 | int64
-	rune
 }
 
 type Tree[T Node] struct {
